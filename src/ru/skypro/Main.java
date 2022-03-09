@@ -43,7 +43,7 @@ public class Main {
             int yearAfter = 2122;
             for (; yearBefore <= yearAfter; yearBefore++ ){
             if (yearBefore % 79 == 0) { System.out.println(yearBefore);
-            }}
+             }}
         }
     }
     }
