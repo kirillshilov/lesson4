@@ -16,7 +16,6 @@ public class Main {
                 number++;
 
             }
-
         }
         {
             int numberTwo = 10;
@@ -38,17 +37,13 @@ public class Main {
             }
             while (friday <= 31);
         }
-
         // Задача3
         {
-
             int yearBefore = 1822;
             int yearAfter = 2122;
             for (; yearBefore <= yearAfter; yearBefore++ ){
             if (yearBefore % 79 == 0) { System.out.println(yearBefore);
             }}
-
-
         }
     }
     }
